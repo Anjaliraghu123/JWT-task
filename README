@@ -1,0 +1,16 @@
+# JWT Authentication API
+
+## Features
+- Register user
+- Login with JWT
+- Protected route with Bearer token
+
+## Tech Stack
+Node.js, Express, MongoDB, JWT
+
+## Run
+npm install
+npm run dev
+
+## API Base URL
+http://localhost:5000/api/auth
